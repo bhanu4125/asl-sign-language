@@ -1,3 +1,4 @@
+# Web Production Requirements
 Flask>=2.0.0
 gunicorn>=21.0.0
 waitress>=3.0.0
@@ -5,8 +6,3 @@ scikit-learn==1.2.0
 numpy==1.24.3
 deep-translator>=1.11.4
 textblob>=0.17.1
-opencv-python>=4.8.0.76
-mediapipe>=0.10.0
-customtkinter>=5.2.0
-pyttsx3>=2.90
-Pillow>=10.0.0
